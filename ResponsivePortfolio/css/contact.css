@@ -1,0 +1,43 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(106, 90, 205);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+}
+
+a:link {
+    color: blue;
+    float: center;
+}
+
+footer {
+    background-color: rgb(106, 90, 205);
+    text-align: center;
+}
+
+label {
+    display: block;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 900;
+    line-height: 1.5;
+    letter-spacing: 0.075em;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    margin: 0 0 0.75rem 0;
+}
